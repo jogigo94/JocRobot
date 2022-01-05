@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot\\JocRobot\\JocRobot.csproj": {}
+    "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot2\\JocRobot\\JocRobot\\JocRobot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot\\JocRobot\\JocRobot.csproj": {
+    "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot2\\JocRobot\\JocRobot\\JocRobot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot\\JocRobot\\JocRobot.csproj",
+        "projectUniqueName": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot2\\JocRobot\\JocRobot\\JocRobot.csproj",
         "projectName": "JocRobot",
-        "projectPath": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot\\JocRobot\\JocRobot.csproj",
+        "projectPath": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot2\\JocRobot\\JocRobot\\JocRobot.csproj",
         "packagesPath": "C:\\Users\\Jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot\\JocRobot\\obj\\",
+        "outputPath": "C:\\Users\\Jordi\\Desktop\\DAM 2n\\M09 - PROGRAMACIÓ DE SERVEIS I PROCESSOS\\UF1\\JocRobot2\\JocRobot\\JocRobot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jordi\\AppData\\Roaming\\NuGet\\NuGet.Config",
