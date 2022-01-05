@@ -25,6 +25,7 @@ namespace JocRobot
     {
         const int NFILES = 3, NCOLUMNES = 3;
         Tauler joc;
+        int moviments = 0;
         Stopwatch rellotge = new Stopwatch();
         DispatcherTimer timer = new DispatcherTimer();
         public MainWindow()
@@ -41,10 +42,12 @@ namespace JocRobot
 
         private void Timer_Tick(object sender, EventArgs e)
         {
+            
             joc.posicioRobot();
-
+            ActualitzaTextBlockNMoviments(tbNMoviments, "Moviments Luffy: ", comptador);
             if (joc.jocAcabat())
             {
+                
                 rellotge.Stop();
                 timer.Stop();
                 Window finestra = new wndFinal();
