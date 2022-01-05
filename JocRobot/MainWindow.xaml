@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:JocRobot"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <DockPanel LastChildFill="True">
+        <StatusBar DockPanel.Dock="Bottom" >
+            <TextBlock x:Name="tbTempsCronometrat" Text="Temps transcorregut: 00:00:00.000"/>
+            <Separator/>
+            <TextBlock  x:Name="tbNMoviments" Text="Numero de moviments: 0" HorizontalAlignment="Center"/>
+        </StatusBar>
+        <Grid x:Name="grdTaulell"/>
+    </DockPanel>
 </Window>
